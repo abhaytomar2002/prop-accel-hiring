@@ -4,10 +4,10 @@
 
 .group-1,
 .group-1 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .group-1 {
-  position: relative;
-  overflow: visible;
+    position: relative;
+    overflow: visible;
 }
